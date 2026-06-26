@@ -41,13 +41,12 @@
 
 ## Preview
 
+Матрица покрытия, самооценка и трёхпанельный workflow Attack → Telemetry → Detection.
+
 <div align="center">
-
+ 
 ![Rosetta — матрица и самооценка покрытия](docs/rosetta-matrix.png)
-
 ![Rosetta — три панели техники: Attack → Telemetry → Detection](docs/rosetta-technique.png)
-
-<p align="center"><i>Матрица покрытия, самооценка и трёхпанельный workflow Attack → Telemetry → Detection.</i></p>
 
 </div>
 
